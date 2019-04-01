@@ -1,0 +1,42 @@
+{
+           "id": "BcW0vRdM8N-rteR2FfV1jg",
+           "alias": "deli-board-san-francisco",
+           "name": "Deli Board",
+           "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/m5dL_mNk9rjSJ5jQu17hVw/o.jpg",
+           "is_closed": false,
+           "url": "https://www.yelp.com/biz/deli-board-san-francisco?adjust_creative=Vp7D9pPoHdVXZR7ymKxB3w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Vp7D9pPoHdVXZR7ymKxB3w",
+           "review_count": 1223,
+           "categories": [
+               {
+                   "alias": "delis",
+                   "title": "Delis"
+               },
+               {
+                   "alias": "sandwiches",
+                   "title": "Sandwiches"
+               }
+           ],
+           "rating": 4.5,
+           "coordinates": {
+               "latitude": 37.7776247966103,
+               "longitude": -122.407012712007
+           },
+           "transactions": [],
+           "price": "$$",
+           "location": {
+               "address1": "1058 Folsom St",
+               "address2": "",
+               "address3": "",
+               "city": "San Francisco",
+               "zip_code": "94103",
+               "country": "US",
+               "state": "CA",
+               "display_address": [
+                   "1058 Folsom St",
+                   "San Francisco, CA 94103"
+               ]
+           },
+           "phone": "+14155527687",
+           "display_phone": "(415) 552-7687",
+           "distance": 1201.0092939107112
+       }
